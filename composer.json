@@ -16,6 +16,6 @@
             "Petja\\Test": "src/"
         }
     },
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "license": "MIT"
 }
